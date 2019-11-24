@@ -1,0 +1,57 @@
+body {
+  background-color: darkgrey;
+  margin-top: 1em;
+  font-family: Verdana;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 2em;
+}
+
+.typedrow {
+  background-color: salmon;
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 10px;
+  min-width: 300px;
+}
+
+.typedrow:hover {
+  background-color: rgb(209, 76, 61);
+}
+
+.complete {
+  background-color: blue !important;
+}
+
+input {
+  display: block;
+  margin: .5em;
+}
+
+.modalShow {
+  top: 100px;
+}
+
+.modalHide {
+  top: -1000px;
+}
+
+.modalDetails {
+  width: 300px;
+  height: 100px;
+  border: 3px solid black;
+  position: absolute;
+  left: 100px;
+  transition: all 0.3s;
+  background-color: white;
+  box-shadow: 2px;
+}
+
+button {
+  margin: .5em;
+  border-radius: .6em;
+  background-color: black;
+  color: white;
+}
