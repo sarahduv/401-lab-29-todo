@@ -4,8 +4,8 @@ This app was created based on the following html/css/js example, and then reform
 
 - https://github.com/sarahduv-401-advanced-javascript/seattle-javascript-401d32/tree/master/curriculum/class-29/lab/starter-code/todo
 
-### Deploy link
-- 
+### Deployed with AWS Amplify
+- https://master.d2bhkynjyc3lgo.amplifyapp.com/
 
 ### Travis
 - https://travis-ci.com/sarahduv/401-lab-29-todo
